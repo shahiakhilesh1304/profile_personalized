@@ -24,5 +24,6 @@ jobs:
 
     - name: Build
       run: |
-        npm install
-        gulp
+        Install Gulp CLI
+        npm install gulp
+        npm install gulp
